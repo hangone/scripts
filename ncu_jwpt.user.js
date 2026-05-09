@@ -4,8 +4,6 @@
 // @version      1.4
 // @description  点击成绩查看平时分
 // @match        *://jwpt.ncu.edu.cn/jsxsd/kscj/cjcx_frm*
-// @updateURL    https://github.com/hangone/scripts/raw/refs/heads/main/ncu_jwpt.user.js
-// @downloadURL  https://github.com/hangone/scripts/raw/refs/heads/main/ncu_jwpt.user.js
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
